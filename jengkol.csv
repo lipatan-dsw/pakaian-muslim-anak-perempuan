@@ -1,5 +1,5 @@
-title,permalink,body,published_at,filter,categories,tags,jenis,brand,description,image,product,price,sku,kondisi
-Jual Pakaian Muslim Anak Perempuan - CHE 014 Murah,pakaian-muslim-anak-perempuan-che-014,"
+title,permalink,body,published_at,filter,categories,tags,jenis,brand,description,image,image1,image2,image3,image4,image5,product,price,hargajual,profit,sku,kondisi
+Jual Dress /  Gamis Muslimah Anak Perempuan - CIS 250 Murah,dress-gamis-muslimah-anak-perempuan-cis-250,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -24,6 +24,7 @@ Jual Pakaian Muslim Anak Perempuan - CHE 014 Murah,pakaian-muslim-anak-perempuan
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -46,7 +47,7 @@ Jual Pakaian Muslim Anak Perempuan - CHE 014 Murah,pakaian-muslim-anak-perempuan
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Bosan dengan produk fashion anak yang ada di pasar atau mall? Gak cuma orang dewasa, anak-anak pun ingin tampil trendy. Dengan produk Pakaian Muslim Anak Perempuan merek Catenzo Junior ini membuat anak Anda semakin terlihat gaya, trendy dan berbeda. Pakaian Muslim Anak Perempuan - CHE 014 dengan bahan Cotton ini dijamin awet.<br/>Kode : CHE 014<br/>Warna : PUTIH<br/>Bahan : Cotton<br/>Ukuran :  6~8~10 Tahun<br/>Berat : 0.65 kg<br>
+         <p>Dress /  Gamis Muslimah Anak Perempuan - CIS 250 adalah salah satu produk merek Catenzo Junior. Produk fashion anak handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk anak Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Pakaian Muslim Anak Perempuan ini terbuat dari bahan VELVET.<br/>Kode : CIS 250<br/>Warna : PINK<br/>Bahan : VELVET<br/>Ukuran : 6 - 10<br/>Berat : 0.6 kg<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -61,8 +62,8 @@ Jual Pakaian Muslim Anak Perempuan - CHE 014 Murah,pakaian-muslim-anak-perempuan
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-24,html,pakaian-muslim-anak-perempuan,catenzo-junior,pakaian-muslim-anak-perempuan,catenzo-junior,"Pakaian Muslim Anak Perempuan Bahan Cotton, Ukuran  6~8~10 Tahun, Warna PUTIH",https://images.lipatan.com/katalog-catenzo-junior-2017/foto-produk-satuan/383-che-014.jpg,Pakaian Muslim Anak Perempuan - CHE 014,Rp 122.900,CHE 014,Baru
-Jual Pakaian Muslim Anak Perempuan - CHE 011 Murah,pakaian-muslim-anak-perempuan-che-011,"
+     </div><!--/category-tab-->",2017-10-18,html,pakaian-muslim-anak-perempuan,catenzo-junior,pakaian-muslim-anak-perempuan,catenzo-junior,"Pakaian Muslim Anak Perempuan Bahan VELVET, Ukuran 6 - 10, Warna PINK",https://images.lipatan.com/katalog-catenzo-junior-2017-2/foto-produk-satuan/333-cis-250.jpg,/,/,/,/,/,Dress /  Gamis Muslimah Anak Perempuan - CIS 250,Rp 169.400,Rp 198.900,Rp 29.500,CIS 250,Baru
+Jual Dress /  Gamis Muslimah Anak Perempuan - CSG 104 Murah,dress-gamis-muslimah-anak-perempuan-csg-104,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -87,6 +88,7 @@ Jual Pakaian Muslim Anak Perempuan - CHE 011 Murah,pakaian-muslim-anak-perempuan
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -109,7 +111,7 @@ Jual Pakaian Muslim Anak Perempuan - CHE 011 Murah,pakaian-muslim-anak-perempuan
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Bosan dengan produk fashion anak yang ada di pasar atau mall? Gak cuma orang dewasa, anak-anak pun ingin tampil trendy. Dengan produk Pakaian Muslim Anak Perempuan merek Catenzo Junior ini membuat anak Anda semakin terlihat gaya, trendy dan berbeda. Pakaian Muslim Anak Perempuan - CHE 011 dengan bahan Cotton ini dijamin awet.<br/>Kode : CHE 011<br/>Warna : BIRU<br/>Bahan : Cotton<br/>Ukuran :  6~8~10 Tahun<br/>Berat : 0.65 kg<br>
+         <p>Dress /  Gamis Muslimah Anak Perempuan - CSG 104 adalah salah satu produk merek Catenzo Junior. Produk fashion anak handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk anak Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Pakaian Muslim Anak Perempuan ini terbuat dari bahan COTTON.<br/>Kode : CSG 104<br/>Warna : ABU ABU<br/>Bahan : COTTON<br/>Ukuran : 4 - 10<br/>Berat : 0.6 kg<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -124,8 +126,8 @@ Jual Pakaian Muslim Anak Perempuan - CHE 011 Murah,pakaian-muslim-anak-perempuan
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-24,html,pakaian-muslim-anak-perempuan,catenzo-junior,pakaian-muslim-anak-perempuan,catenzo-junior,"Pakaian Muslim Anak Perempuan Bahan Cotton, Ukuran  6~8~10 Tahun, Warna BIRU",https://images.lipatan.com/katalog-catenzo-junior-2017/foto-produk-satuan/386-che-011.jpg,Pakaian Muslim Anak Perempuan - CHE 011,Rp 122.900,CHE 011,Baru
-Jual Pakaian Muslim Anak Perempuan - CIS 268 Murah,pakaian-muslim-anak-perempuan-cis-268,"
+     </div><!--/category-tab-->",2017-10-18,html,pakaian-muslim-anak-perempuan,catenzo-junior,pakaian-muslim-anak-perempuan,catenzo-junior,"Pakaian Muslim Anak Perempuan Bahan COTTON, Ukuran 4 - 10, Warna ABU ABU",https://images.lipatan.com/katalog-catenzo-junior-2017-2/foto-produk-satuan/334-csg-104.jpg,/,/,/,/,/,Dress /  Gamis Muslimah Anak Perempuan - CSG 104,Rp 103.900,Rp 121.900,Rp 18.000,CSG 104,Baru
+Jual Dress /  Gamis Muslimah Anak Perempuan - CBV 002 Murah,dress-gamis-muslimah-anak-perempuan-cbv-002,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -150,6 +152,7 @@ Jual Pakaian Muslim Anak Perempuan - CIS 268 Murah,pakaian-muslim-anak-perempuan
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -172,7 +175,7 @@ Jual Pakaian Muslim Anak Perempuan - CIS 268 Murah,pakaian-muslim-anak-perempuan
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Bosan dengan produk fashion anak yang ada di pasar atau mall? Gak cuma orang dewasa, anak-anak pun ingin tampil trendy. Dengan produk Pakaian Muslim Anak Perempuan merek Catenzo Junior ini membuat anak Anda semakin terlihat gaya, trendy dan berbeda. Pakaian Muslim Anak Perempuan - CIS 268 dengan bahan Cotton ini dijamin awet.<br/>Kode : CIS 268<br/>Warna : ORANGE<br/>Bahan : Cotton<br/>Ukuran :  6~8~10 Tahun<br/>Berat : 0.65 kg<br>
+         <p>Dress /  Gamis Muslimah Anak Perempuan - CBV 002 adalah salah satu produk merek Catenzo Junior. Produk fashion anak handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk anak Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Pakaian Muslim Anak Perempuan ini terbuat dari bahan COTTON.<br/>Kode : CBV 002<br/>Warna : BIRU<br/>Bahan : COTTON<br/>Ukuran : 6 - 10<br/>Berat : 0.6 kg<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -187,256 +190,4 @@ Jual Pakaian Muslim Anak Perempuan - CIS 268 Murah,pakaian-muslim-anak-perempuan
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-24,html,pakaian-muslim-anak-perempuan,catenzo-junior,pakaian-muslim-anak-perempuan,catenzo-junior,"Pakaian Muslim Anak Perempuan Bahan Cotton, Ukuran  6~8~10 Tahun, Warna ORANGE",https://images.lipatan.com/katalog-catenzo-junior-2017/foto-produk-satuan/387-cis-268.jpg,Pakaian Muslim Anak Perempuan - CIS 268,Rp 129.400,CIS 268,Baru
-Jual Pakaian Muslim Anak Perempuan - CIW 004 Murah,pakaian-muslim-anak-perempuan-ciw-004,"
-     <div class=""product-details""><!--product-details-->
-      <div class=""col-sm-5"">
-       <div class=""view-product"">
-        <img src=""{{ page.image }}"" alt=""{{ page.product }}"" title=""{{ page.product }}"" />
-        <h3><a style=""text-decoration: none; color: #ffffff"" href=""{{ page.image }}"" target=""_blank"" title=""Klik disini untuk memperbesar"">ZOOM</a></h3>
-       </div>
-      </div>
-
-      <div class=""col-sm-7"">
-       <div class=""product-information""><!--/product-information-->
-        <h1>{{ page.product }}</h1>
-        <p>SKU: {{ page.sku }}</p>
-        <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
-        <span>
-         <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
-          </a>
-         </label>
-        </span>
-        <p><b>Kondisi:</b> {{ page.kondisi }}</p>
-        <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
-       </div><!--/product-information-->
-      </div>
-     </div><!--/product-details-->
-     
-     <div class=""category-tab shop-details-tab""><!--category-tab-->
-      <div class=""col-sm-12"">
-       <ul class=""nav nav-tabs"">
-        <li class=""active""><a href=""{{ site.url }}{{ page.url }}#keterangan"" data-toggle=""tab"" title=""Keterangan"">Keterangan</a></li>        
-       </ul>
-      </div>
-      <div class=""tab-content"">
-       <div class=""tab-pane fade active in"" id=""keterangan"" >
-        <div class=""col-sm-12"">
-         <h2>{{ page.product }}</h2>         
-         <ol class=""breadcrumb"">
-            <li class=""active"">Tag :</li>
-            <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
-            <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
-         </ol>         
-         <p>Bosan dengan produk fashion anak yang ada di pasar atau mall? Gak cuma orang dewasa, anak-anak pun ingin tampil trendy. Dengan produk Pakaian Muslim Anak Perempuan merek Catenzo Junior ini membuat anak Anda semakin terlihat gaya, trendy dan berbeda. Pakaian Muslim Anak Perempuan - CIW 004 dengan bahan Jersey ini dijamin awet.<br/>Kode : CIW 004<br/>Warna : COKLAT<br/>Bahan : Jersey<br/>Ukuran :  6~8~10 Tahun<br/>Berat : 0.65 kg<br>
-         </p>
-
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
-         Gudang : WRH-1<br>
-         Lokasi : Bandung</p>
-
-         {% include share.html %}
-
-         {% include disqus.html %}
-         
-        </div>
-       </div>       
-       
-      </div>
-     </div><!--/category-tab-->",2017-08-24,html,pakaian-muslim-anak-perempuan,catenzo-junior,pakaian-muslim-anak-perempuan,catenzo-junior,"Pakaian Muslim Anak Perempuan Bahan Jersey, Ukuran  6~8~10 Tahun, Warna COKLAT",https://images.lipatan.com/katalog-catenzo-junior-2017/foto-produk-satuan/388-ciw-004.jpg,Pakaian Muslim Anak Perempuan - CIW 004,Rp 103.900,CIW 004,Baru
-Jual Pakaian Muslim Anak Perempuan - CIS 250 Murah,pakaian-muslim-anak-perempuan-cis-250,"
-     <div class=""product-details""><!--product-details-->
-      <div class=""col-sm-5"">
-       <div class=""view-product"">
-        <img src=""{{ page.image }}"" alt=""{{ page.product }}"" title=""{{ page.product }}"" />
-        <h3><a style=""text-decoration: none; color: #ffffff"" href=""{{ page.image }}"" target=""_blank"" title=""Klik disini untuk memperbesar"">ZOOM</a></h3>
-       </div>
-      </div>
-
-      <div class=""col-sm-7"">
-       <div class=""product-information""><!--/product-information-->
-        <h1>{{ page.product }}</h1>
-        <p>SKU: {{ page.sku }}</p>
-        <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
-        <span>
-         <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
-          </a>
-         </label>
-        </span>
-        <p><b>Kondisi:</b> {{ page.kondisi }}</p>
-        <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
-       </div><!--/product-information-->
-      </div>
-     </div><!--/product-details-->
-     
-     <div class=""category-tab shop-details-tab""><!--category-tab-->
-      <div class=""col-sm-12"">
-       <ul class=""nav nav-tabs"">
-        <li class=""active""><a href=""{{ site.url }}{{ page.url }}#keterangan"" data-toggle=""tab"" title=""Keterangan"">Keterangan</a></li>        
-       </ul>
-      </div>
-      <div class=""tab-content"">
-       <div class=""tab-pane fade active in"" id=""keterangan"" >
-        <div class=""col-sm-12"">
-         <h2>{{ page.product }}</h2>         
-         <ol class=""breadcrumb"">
-            <li class=""active"">Tag :</li>
-            <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
-            <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
-         </ol>         
-         <p>Bosan dengan produk fashion anak yang ada di pasar atau mall? Gak cuma orang dewasa, anak-anak pun ingin tampil trendy. Dengan produk Pakaian Muslim Anak Perempuan merek Catenzo Junior ini membuat anak Anda semakin terlihat gaya, trendy dan berbeda. Pakaian Muslim Anak Perempuan - CIS 250 dengan bahan Velvet ini dijamin awet.<br/>Kode : CIS 250<br/>Warna : PINK<br/>Bahan : Velvet<br/>Ukuran :  6~8~10 Tahun<br/>Berat : 0.65 kg<br>
-         </p>
-
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
-         Gudang : WRH-1<br>
-         Lokasi : Bandung</p>
-
-         {% include share.html %}
-
-         {% include disqus.html %}
-         
-        </div>
-       </div>       
-       
-      </div>
-     </div><!--/category-tab-->",2017-08-24,html,pakaian-muslim-anak-perempuan,catenzo-junior,pakaian-muslim-anak-perempuan,catenzo-junior,"Pakaian Muslim Anak Perempuan Bahan Velvet, Ukuran  6~8~10 Tahun, Warna PINK",https://images.lipatan.com/katalog-catenzo-junior-2017/foto-produk-satuan/389-cis-250.jpg,Pakaian Muslim Anak Perempuan - CIS 250,Rp 169.400,CIS 250,Baru
-Jual Pakaian Muslim Anak Perempuan - CHE 012 Murah,pakaian-muslim-anak-perempuan-che-012,"
-     <div class=""product-details""><!--product-details-->
-      <div class=""col-sm-5"">
-       <div class=""view-product"">
-        <img src=""{{ page.image }}"" alt=""{{ page.product }}"" title=""{{ page.product }}"" />
-        <h3><a style=""text-decoration: none; color: #ffffff"" href=""{{ page.image }}"" target=""_blank"" title=""Klik disini untuk memperbesar"">ZOOM</a></h3>
-       </div>
-      </div>
-
-      <div class=""col-sm-7"">
-       <div class=""product-information""><!--/product-information-->
-        <h1>{{ page.product }}</h1>
-        <p>SKU: {{ page.sku }}</p>
-        <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
-        <span>
-         <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
-          </a>
-         </label>
-        </span>
-        <p><b>Kondisi:</b> {{ page.kondisi }}</p>
-        <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
-       </div><!--/product-information-->
-      </div>
-     </div><!--/product-details-->
-     
-     <div class=""category-tab shop-details-tab""><!--category-tab-->
-      <div class=""col-sm-12"">
-       <ul class=""nav nav-tabs"">
-        <li class=""active""><a href=""{{ site.url }}{{ page.url }}#keterangan"" data-toggle=""tab"" title=""Keterangan"">Keterangan</a></li>        
-       </ul>
-      </div>
-      <div class=""tab-content"">
-       <div class=""tab-pane fade active in"" id=""keterangan"" >
-        <div class=""col-sm-12"">
-         <h2>{{ page.product }}</h2>         
-         <ol class=""breadcrumb"">
-            <li class=""active"">Tag :</li>
-            <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
-            <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
-         </ol>         
-         <p>Bosan dengan produk fashion anak yang ada di pasar atau mall? Gak cuma orang dewasa, anak-anak pun ingin tampil trendy. Dengan produk Pakaian Muslim Anak Perempuan merek Catenzo Junior ini membuat anak Anda semakin terlihat gaya, trendy dan berbeda. Pakaian Muslim Anak Perempuan - CHE 012 dengan bahan Cotton ini dijamin awet.<br/>Kode : CHE 012<br/>Warna : ORANGE KOMBINASI<br/>Bahan : Cotton<br/>Ukuran :  6~8~10 Tahun<br/>Berat : 0.65 kg<br>
-         </p>
-
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
-         Gudang : WRH-1<br>
-         Lokasi : Bandung</p>
-
-         {% include share.html %}
-
-         {% include disqus.html %}
-         
-        </div>
-       </div>       
-       
-      </div>
-     </div><!--/category-tab-->",2017-08-24,html,pakaian-muslim-anak-perempuan,catenzo-junior,pakaian-muslim-anak-perempuan,catenzo-junior,"Pakaian Muslim Anak Perempuan Bahan Cotton, Ukuran  6~8~10 Tahun, Warna ORANGE KOMBINASI",https://images.lipatan.com/katalog-catenzo-junior-2017/foto-produk-satuan/390-che-012.jpg,Pakaian Muslim Anak Perempuan - CHE 012,Rp 122.900,CHE 012,Baru
-Jual Pakaian Muslim Anak Perempuan - CBV 002 Murah,pakaian-muslim-anak-perempuan-cbv-002,"
-     <div class=""product-details""><!--product-details-->
-      <div class=""col-sm-5"">
-       <div class=""view-product"">
-        <img src=""{{ page.image }}"" alt=""{{ page.product }}"" title=""{{ page.product }}"" />
-        <h3><a style=""text-decoration: none; color: #ffffff"" href=""{{ page.image }}"" target=""_blank"" title=""Klik disini untuk memperbesar"">ZOOM</a></h3>
-       </div>
-      </div>
-
-      <div class=""col-sm-7"">
-       <div class=""product-information""><!--/product-information-->
-        <h1>{{ page.product }}</h1>
-        <p>SKU: {{ page.sku }}</p>
-        <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
-        <span>
-         <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
-          </a>
-         </label>
-        </span>
-        <p><b>Kondisi:</b> {{ page.kondisi }}</p>
-        <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
-       </div><!--/product-information-->
-      </div>
-     </div><!--/product-details-->
-     
-     <div class=""category-tab shop-details-tab""><!--category-tab-->
-      <div class=""col-sm-12"">
-       <ul class=""nav nav-tabs"">
-        <li class=""active""><a href=""{{ site.url }}{{ page.url }}#keterangan"" data-toggle=""tab"" title=""Keterangan"">Keterangan</a></li>        
-       </ul>
-      </div>
-      <div class=""tab-content"">
-       <div class=""tab-pane fade active in"" id=""keterangan"" >
-        <div class=""col-sm-12"">
-         <h2>{{ page.product }}</h2>         
-         <ol class=""breadcrumb"">
-            <li class=""active"">Tag :</li>
-            <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
-            <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
-         </ol>         
-         <p>Bosan dengan produk fashion anak yang ada di pasar atau mall? Gak cuma orang dewasa, anak-anak pun ingin tampil trendy. Dengan produk Pakaian Muslim Anak Perempuan merek Catenzo Junior ini membuat anak Anda semakin terlihat gaya, trendy dan berbeda. Pakaian Muslim Anak Perempuan - CBV 002 dengan bahan Cotton ini dijamin awet.<br/>Kode : CBV 002<br/>Warna : BIRU<br/>Bahan : Cotton<br/>Ukuran :  6~8~10 Tahun<br/>Berat : 0.65 kg<br>
-         </p>
-
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
-         Gudang : WRH-1<br>
-         Lokasi : Bandung</p>
-
-         {% include share.html %}
-
-         {% include disqus.html %}
-         
-        </div>
-       </div>       
-       
-      </div>
-     </div><!--/category-tab-->",2017-08-24,html,pakaian-muslim-anak-perempuan,catenzo-junior,pakaian-muslim-anak-perempuan,catenzo-junior,"Pakaian Muslim Anak Perempuan Bahan Cotton, Ukuran  6~8~10 Tahun, Warna BIRU",https://images.lipatan.com/katalog-catenzo-junior-2017/foto-produk-satuan/391-cbv-002.jpg,Pakaian Muslim Anak Perempuan - CBV 002,Rp 151.400,CBV 002,Baru
+     </div><!--/category-tab-->",2017-10-18,html,pakaian-muslim-anak-perempuan,catenzo-junior,pakaian-muslim-anak-perempuan,catenzo-junior,"Pakaian Muslim Anak Perempuan Bahan COTTON, Ukuran 6 - 10, Warna BIRU",https://images.lipatan.com/katalog-catenzo-junior-2017-2/foto-produk-satuan/335-cbv-002.jpg,/,/,/,/,/,Dress /  Gamis Muslimah Anak Perempuan - CBV 002,Rp 151.400,Rp 177.900,Rp 26.500,CBV 002,Baru
